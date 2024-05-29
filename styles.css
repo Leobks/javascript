@@ -11,6 +11,7 @@ body {
     height: 50vh;
         background-image: url('giga.gif');
         background-size: cover; 
+        background-repeat: no-repeat;
         
         
      
